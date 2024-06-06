@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij
 
@@ -115,6 +116,8 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 ### Java ###
+=======
+>>>>>>> ac52c8839fcdc35db59166fd2fc805ddbd888411
 # Compiled class file
 *.class
 
@@ -139,5 +142,8 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+=======
+>>>>>>> ac52c8839fcdc35db59166fd2fc805ddbd888411
